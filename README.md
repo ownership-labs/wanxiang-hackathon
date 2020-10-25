@@ -12,8 +12,10 @@
 ![sharedmpc](./figures/sharedmpc.png)
 
 ## 可组合数据通证
-[](./figures/cdt.png/!scale/50)
 
+<div align="center">
+ <img src="./figures/cdt.png" width="50%">
+</div>
 
 ## 潜在应用场景
 
