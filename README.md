@@ -6,10 +6,16 @@
 
 本项目旨在利用隐私计算和区块链等技术，在保证企业数据不出私域的情况下，实现数据的安全融合计算。项目定位为应用层中间件，构建开放数据集市场，并提供对业务人员、数据科学家友好易用的多方数据协作软件。底层使用了Ocean、Platon(rosetta)、TF(encrpyted)等基础协议。同时，我们提出了两个创新点，即共享特征学习和可组合数据通证。
 
-![frontend](./figures/frontend.png)
+<div align="center">
+ <img src="./figures/frontend.png" width="70%">
+</div>
+
 
 ## 共享特征学习
-![sharedmpc](./figures/sharedmpc.png)
+
+<div align="center">
+ <img src="./figures/sharedmpc.png" width="60%">
+</div>
 
 ## 可组合数据通证
 
