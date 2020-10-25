@@ -8,14 +8,12 @@
 
 ![frontend](./figures/frontend.png)
 
-## 技术架构
-![architecture](./figures/architecture.png)
-
 ## 共享特征学习
 ![sharedmpc](./figures/sharedmpc.png)
 
 ## 可组合数据通证
-![cdt](./figures/cdt.png)
+[](./figures/cdt.png/!scale/50)
+
 
 ## 潜在应用场景
 
