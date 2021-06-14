@@ -28,7 +28,7 @@
 
 当前业务部门间、机构间相互隔离，除了利用隐私计算实现原始数据不出私域外，各主体还需要满足监管的合规要求。因此，还需要设计远程计算的权限管理方案，保证对私域数据的操作都是可审计追踪的。GDPR等法规下，用户也应具备数据使用的知情权。万亿美元数据市场下，如何精准追踪数据使用的全流程以定价就是一个关键问题。
 
-针对这个问题，我们设计出了可组合数据通证(Composable Data Token，CDT)，[代码仓库](https://github.com/ownership-labs/wanxiang-hackathon/cdt-sdk)。数据、算力、算法等资产都可以用CDT来进行唯一标识，不同资产具有不同的元信息(metadata)。我们使用链上的CDT标识符来定位链下资产的文档对象DDO存储位置（ipfs地址)：
+针对这个问题，我们设计出了可组合数据通证(Composable Data Token，CDT)，[代码仓库](./cdt-sdk)。数据、算力、算法等资产都可以用CDT来进行唯一标识，不同资产具有不同的元信息(metadata)。我们使用链上的CDT标识符来定位链下资产的文档对象DDO存储位置（ipfs地址)：
 
 ```
 CDT标识符在链上注册为：{CDT, owner_address, storage_path, proof}
